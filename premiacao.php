@@ -245,7 +245,7 @@ include __DIR__ . '/app/views/public/header_public.php';
             <p>
               Confira os negócios premiados nesta edição e em todas as edições anteriores.
             </p>
-            <a href="/vencedores2.php" class="ip-alerta-btn">
+            <a href="/vencedores.php" class="ip-alerta-btn">
               <i class="bi bi-trophy"></i>
               Ver os vencedores
             </a>
